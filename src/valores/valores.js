@@ -1,13 +1,14 @@
 // numero
-40
+40;
 // texto
-'joyelocode'
+'joyelocode';
 // booleanos
-true
-false
+true;
+false;
 // vacios
-null
-undefined
+null;
+undefined;
+// objeto array
+[1, 2, 3];
 // objeto
-[1, 2, 3]
-{ nombre: 'joyelocode' }
+{ nombre: 'joyelocode' };
